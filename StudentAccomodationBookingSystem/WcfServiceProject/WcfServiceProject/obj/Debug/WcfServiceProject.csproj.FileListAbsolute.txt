@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CodingComrades\WcfServiceProject\WcfServiceProject\bin\WcfServiceProject.dll.config
+C:\Users\user\source\repos\CodingComrades\WcfServiceProject\WcfServiceProject\bin\WcfServiceProject.dll
+C:\Users\user\source\repos\CodingComrades\WcfServiceProject\WcfServiceProject\bin\WcfServiceProject.pdb
+C:\Users\user\source\repos\CodingComrades\WcfServiceProject\WcfServiceProject\obj\Debug\WcfServiceProject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CodingComrades\WcfServiceProject\WcfServiceProject\obj\Debug\WcfServiceProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CodingComrades\WcfServiceProject\WcfServiceProject\obj\Debug\WcfServiceProject.dll
+C:\Users\user\source\repos\CodingComrades\WcfServiceProject\WcfServiceProject\obj\Debug\WcfServiceProject.pdb
+E:\Users\user\source\repos\CodingComrades\CodingComradesGroup\WcfServiceProject\WcfServiceProject\bin\WcfServiceProject.dll.config
+E:\Users\user\source\repos\CodingComrades\CodingComradesGroup\WcfServiceProject\WcfServiceProject\bin\WcfServiceProject.dll
+E:\Users\user\source\repos\CodingComrades\CodingComradesGroup\WcfServiceProject\WcfServiceProject\bin\WcfServiceProject.pdb
+E:\Users\user\source\repos\CodingComrades\CodingComradesGroup\WcfServiceProject\WcfServiceProject\obj\Debug\WcfServiceProject.csproj.AssemblyReference.cache
+E:\Users\user\source\repos\CodingComrades\CodingComradesGroup\WcfServiceProject\WcfServiceProject\obj\Debug\WcfServiceProject.csproj.CoreCompileInputs.cache
+E:\Users\user\source\repos\CodingComrades\CodingComradesGroup\WcfServiceProject\WcfServiceProject\obj\Debug\WcfServiceProject.dll
+E:\Users\user\source\repos\CodingComrades\CodingComradesGroup\WcfServiceProject\WcfServiceProject\obj\Debug\WcfServiceProject.pdb
